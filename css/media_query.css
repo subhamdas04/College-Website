@@ -1,0 +1,1106 @@
+
+@media (max-width: 1324px) {
+
+    /*.fa {
+        padding-right: 0.2rem;
+    }*/
+
+    .bg-top {
+        width: 180%;
+    }
+
+    #scroll-text {
+        width: 80%;
+    }
+
+    .container {
+        width: 90%;
+        grid-template-columns: 10% 60% 30%;
+        margin-left: 5%;
+    }
+
+    .search {
+        width: 100%;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+
+    .container-right {
+        margin-bottom: 3%;
+    }
+
+    header {
+        width: 180%;
+        z-index: 9;
+    }
+
+    .menu li a {
+        font-size: 1rem;
+    }
+
+    .categories {
+        width: 180%;
+        height: auto;
+    }
+
+    .categories_container {
+        grid-template-columns: 30% 70%;
+    }
+
+    .category_icon img {
+        width: 15%;
+    }
+
+    .category {
+        width: 110%;
+    }
+
+    .category_info {
+        font-size: 1.2rem;
+    }
+
+    .category_info p a {
+        font-size: 1.3rem;
+    }
+
+    .categories_1 {
+        width: 170%;
+    }
+
+    .categories_1_container {
+        grid-template-columns: 36% 40% 30%;
+    }
+
+    #media_principal img{
+        width: 40%;
+    }
+
+    .category_1_info h4{
+        font-size: 2.5rem;
+    }
+
+    .category_1_info p {
+        font-size: 2rem;
+        margin: 2rem;
+        text-align: left;
+        line-height: 2;
+    }
+
+    .external_links{
+        margin-top: 10%;
+    }
+
+    .external_links a{
+        font-size: 2rem;
+        font-weight: 600;
+    }
+
+    .facilities{
+        width: 180%;
+    }
+
+    .facilities_container{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .facilities h2{
+        font-size: 3rem;
+    }
+
+    .facility_info h4{
+        font-size: 2.5rem;
+    }
+
+    .facility_info p{
+        font-size: 1.5rem;
+        line-height: 1.5;
+        font-weight: 600;
+    }
+
+    .slider-1 {
+        width: 180%;
+    }
+
+    .facilities_1 {
+        width: 180%;
+    }
+
+    .facilities_1 h4{
+        font-size: 2.8rem;
+    }
+
+    .facility_1_button{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .facility_1_button a{
+        font-size: 1.6rem;
+    }
+
+    footer {
+        width: 180%;
+    }
+
+    .footer_container {
+        text-align: center;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 3rem;
+    }
+
+    .footer_1 h4,
+    .footer_2 h4,
+    .footer_3 h4,
+    .footer_4 h4 {
+        font-size: 2.5rem;
+    }
+
+
+    .footer_1 ul li {
+        list-style: none;
+    }
+
+    .footer_1 ul li a,
+    .footer_2 ul li a,
+    .footer_3 ul li a {
+        font-size: 1.3rem;
+    }
+
+    .footer_4 p {
+        font-size: 1.2rem;
+    }
+
+    .footer_container .box {
+        margin-left: 10rem;
+        width: 60%;
+        margin-top: 2rem;
+    }
+
+    footer .bottom-details .bottom_text {
+        display: grid;
+        grid-template-columns: 1fr;
+        height: auto;
+    }
+
+    .bottom-details .bottom_text span,
+    .bottom-details .bottom_text a {
+        font-size: 1.3rem;
+        text-align: center;
+        line-height: 2;
+    }
+
+
+    /*About*/
+
+    .about_us {
+        width: 180%;
+    }
+
+    .about {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .about_us_icon img {
+        width: 90%;
+    }
+
+    .about_info {
+        height: auto;
+        margin-bottom: 5%;
+    }
+
+    .about_info p {
+        width: 100%;
+        font-size: 2rem;
+    }
+
+    .about_info b {
+        font-size: 2.5rem;
+    }
+
+    .about_us_container {
+        grid-template-columns: 1fr;
+        margin-left: 0%;
+    }
+
+    .table-box {
+        margin-left: 0%;
+    }
+
+    .table-head,
+    .table-row {
+        width: 150%;
+    }
+
+    .table-cell p {
+        font-size: 1.5rem;
+    }
+
+
+    /*Contact*/
+
+    .contact {
+        width: 180%;
+        height: auto;
+    }
+
+    .contact_container {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .contact_left {
+        margin-top: 5%;
+    }
+
+    .location iframe {
+        width: 100%;
+    }
+
+    /*IQAC*/
+
+    .iqac {
+        width: 150%;
+    }
+
+    .iqac h1 {
+        font-size: 3rem;
+        text-align: center;
+    }
+
+    .iqac p {
+        font-size: 1.6rem;
+    }
+
+    .iqac_head,
+    .iqac_committee {
+        width: 180%;
+    }
+
+    /*mvl*/
+
+    .mvl {
+        width: 170%;
+        margin-left: 6%;
+    }
+
+    .mvl h1 {
+        font-size: 2.5rem;
+    }
+
+    .mvl_icon img {
+        width: 23%;
+    }
+
+    .mvl h2 {
+        font-size: 2.3rem;
+    }
+
+    .mvl p {
+        font-size: 1.8rem;
+        line-height: 2;
+    }
+
+    .mvl .vision {
+        font-size: 2.9rem;
+    }
+
+    /*notice board*/
+
+    .notice_board {
+        width: 180%;
+        line-height: 6rem;
+    }
+
+    .th_notice,
+    .td_notice {
+        font-size: 1.8rem;
+    }
+
+    /*Office*/
+
+    .princoff {
+        width: 170%;
+        margin-left: 0%;
+    }
+
+    .princoff h2 {
+        font-size: 2rem;
+    }
+
+    .princoff .table-head,
+    .princoff .table-row {
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    /*pmsg*/
+
+
+
+
+
+    /*========================== DEPARTMENT ========================*/
+
+    .profile_container {
+        width: 170%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .profile_right {
+        margin: 0.5rem;
+        margin-top: 0.1rem;
+        line-height: 1.5rem;
+    }
+
+    .profile_right h2 {
+        font-size: 2.3rem;
+        margin-bottom: 3%;
+        margin-top: 2%;
+    }
+
+    .profile_right p {
+        font-size: 1.5rem;
+    }
+
+    .pro_card_right {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .card {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .card img {
+        width: 38%;
+    }
+
+    .card h4 {
+        font-size: 1.6rem;
+        margin-top: 2%;
+    }
+
+    .card p {
+        font-size: 1.3rem;
+        margin-top: 2%;
+    }
+
+    .Vacant {
+        text-align: center;
+        justify-content: center;
+    }
+
+
+    /*======================== FACILITIES ================================*/
+
+    .facs {
+        width: 180%;
+    }
+
+    .facs_container {
+        margin-left: 1%;
+        display: grid;
+        grid-template-columns: 25% 84%;
+    }
+
+    .fac img {
+        width: 55%;
+    }
+
+    .fac h2 {
+        font-size: 3rem;
+    }
+
+    .fac h3 {
+        font-size: 2rem;
+    }
+
+    .fac p {
+        font-size: 1.5rem;
+    }
+
+    /*pmsg*/
+
+    .pmsg {
+        width: 170%;
+    }
+
+    .pmsg_container {
+        display: grid;
+        grid-template-columns: 40% 70%;
+    }
+
+    .pmsg_right h4 {
+        font-size: 2.2rem;
+    }
+
+    .pmsg_right p {
+        font-size: 1.3rem;
+    }
+
+
+
+
+    /*================================= ADMISSION ============================*/
+
+    .headbox {
+        width: 180%;
+    }
+
+    .admission {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .admission_head h1 {
+        font-size: 2rem;
+    }
+
+    .admission_style_1 p,
+    .admission_style_2 p {
+        font-size: 1.4rem;
+    }
+
+    .admission_left {
+        width: 180%;
+        border-right: none;
+    }
+
+    .admission_right {
+        width: 180%;
+    }
+
+    .admission_button {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .admission_link_buttoms {
+        padding: 35px;
+        font-size: 2rem;
+    }
+
+    .down_notice {
+        width: 55.3%;
+    }
+
+    .th_adm {
+        border: 1px solid var(--color-black);
+        text-align: center;
+        background: var(--color-primary);
+        color: white;
+        font-size: 3rem;
+    }
+
+    .admission1 {
+        gap: 2rem;
+        width: 175%;
+    }
+
+    .style15{
+        font-size: 2.4rem;
+    }
+
+    .subjects p {
+        font-size: 1.8rem;
+        margin-top: 2%;
+    }
+
+    .subjects .subject {
+        margin-top: 2%;
+        width: 30%;
+        margin-right: 10%;
+        margin-bottom: 2%;
+    }
+
+
+}
+
+
+
+
+@media (max-width: 786px) {
+
+    .bg-top {
+        width: 180%;
+    }
+
+    #scroll-text {
+        width: 90%;
+        height: 2rem;
+    }
+
+    #scroll-text p {
+        font-size: 0.9rem;
+        margin-top: 2%;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        grid-template-columns: 10% 60% 30%;
+    }
+
+    .search {
+        width: 100%;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+
+    .container-right {
+        margin-bottom: 2%;
+    }
+
+    header {
+        width: 25%;
+        padding: 1.5em 2em;
+        z-index: 1;
+    }
+
+    .menu {
+        flex-flow: column;
+        position: absolute;
+        background: var(--light);
+        top: 4.55em;
+        left: 0;
+        right: 0;
+        height: auto;
+        opacity: 0;
+        transform: scaleY(0);
+        transform-origin: top center;
+        transition: 200ms transform cubic-bezier(0.36, 0.4, 0.42, 1.48) 100ms, 100ms opacity ease-in-out;
+        width: 300%;
+        overflow-y: scroll;
+
+    }
+
+    .menu>li>a {
+        font-size: 1rem;
+        color: var(--dark);
+    }
+
+    .submenu>li>a {
+        font-size: 1rem;
+    }
+
+    .submenu {
+        top: 0;
+        padding-left: 1.5em;
+        border-left: 0.12em dotted hsla(342, 99%, 45%, 0.95);
+    }
+
+    .submenu .submenu {
+        left: 0;
+        top: 0;
+    }
+
+    .submenu .submenu .submenu {
+        left: 0;
+        top: 0;
+    }
+
+    .menu>li:hover>a+.submenu,
+    .submenu>li:hover>a+.submenu {
+        position: relative;
+    }
+
+    .hamburger {
+        width: 2em;
+        height: 0.25em;
+        display: a;
+        background: var(--light);
+        position: relative;
+        cursor: pointer;
+        transition: 0.2s transform ease-in-out;
+    }
+
+    .hamburger::after,
+    .hamburger::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        background: inherit;
+        width: inherit;
+        height: inherit;
+        transition: 0.2s transform ease-in-out;
+    }
+
+    .hamburger::after {
+        top: 0.65em;
+    }
+
+    .hamburger::before {
+        bottom: 0.65em;
+    }
+
+    .close::after,
+    .close::before {
+        top: 0;
+        transition: 0.2s transform ease-in-out;
+    }
+
+    .close::before {
+        display: none;
+    }
+
+    .close {
+        transform: rotate(45deg);
+        transition: 0.2s transform ease-in-out;
+    }
+
+    .close::after {
+        transform: rotate(-90deg);
+    }
+
+    /* reveal menu */
+    input[type="checkbox"]:checked+.menu {
+        position: absolute;
+        opacity: 1;
+        transform: scaleY(1);
+    }
+
+
+    .categories {
+        display: flex;
+        flex-direction: column;
+        width: 180%;
+        height: auto;
+    }
+
+    .category {
+        width: 80%;
+    }
+
+    .category_icon img {
+        width: 10%;
+    }
+
+    .category_info {
+        font-size: 1.5rem;
+    }
+
+    .category_info p a {
+        font-size: 1.5rem;
+    }
+
+    #new,
+    #new1 {
+        width: 8%;
+    }
+
+    .course {
+        width: 100%;
+    }
+
+    .categories_1,
+    .categories_1_container {
+        width: 133%;
+        gap: 1.6rem;
+    }
+
+    .categories_1_icon img {
+        width: 10%;
+    }
+
+    .category_1_info h4 {
+        text-align: center;
+        font-size: 2rem;
+    }
+
+    .category_1_info p {
+        font-size: 1.5rem;
+        line-height: 2;
+        font-weight: 400;
+    }
+
+   .category_1_right {
+        width: 100%;
+    }
+
+    .external_links a {
+        font-size: 1.6rem;
+    }
+
+    .slider-1 {
+        width: 180%;
+    }
+
+    .facilities{
+        width: 180%;
+    }
+
+    .facilities h2{
+        font-size: 3rem;
+    }
+
+    .facility_info h4{
+        font-size: 2rem;
+    }
+
+    .facility_info p{
+        font-size: 1.5rem;
+    }
+
+    .facilities_1 {
+        width: 180%;
+    }
+
+    .facilities_1 h4{
+        font-size: 2.8rem;
+    }
+
+    .facility_1_button{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .facility_1_button a{
+        font-size: 1.6rem;
+    }
+
+    footer {
+        width: 180%;
+        height: auto;
+    }
+
+    .footer_container {
+        text-align: center;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 3rem;
+    }
+
+    .footer_1 h4,
+    .footer_2 h4,
+    .footer_3 h4,
+    .footer_4 h4 {
+        font-size: 2.5rem;
+    }
+
+
+    .footer_1 ul li {
+        list-style: none;
+    }
+
+    .footer_1 ul li a,
+    .footer_2 ul li a,
+    .footer_3 ul li a {
+        font-size: 1.3rem;
+    }
+
+    .footer_4 p {
+        font-size: 1.3rem;
+    }
+
+
+    .footer_container .box {
+        margin-left: 10rem;
+        width: 60%;
+        margin-top: 2rem;
+    }
+
+    footer .bottom-details .bottom_text {
+        display: grid;
+        grid-template-columns: 1fr;
+        height: auto;
+    }
+
+    .bottom-details .bottom_text span,
+    .bottom-details .bottom_text a {
+        font-size: 1.3rem;
+        text-align: center;
+        line-height: 2;
+    }
+
+    /*About*/
+
+    .about_us {
+        width: 150%;
+    }
+
+    .about {
+        display: flex;
+        flex-direction: column;
+        margin-left: 2%;
+    }
+
+
+    .about_info p {
+        font-size: 1.3rem;
+    }
+
+    .about_us_container {
+        grid-template-columns: 1fr;
+        width: 120%;
+    }
+
+    .table-head,
+    .table-row {
+        width: 128%;
+    }
+
+    /*Contact*/
+
+
+    .contact {
+        width: 180%;
+    }
+
+    .contact_left {
+        width: 100%;
+        margin-top: 8%;
+    }
+
+    .contact_right {
+        width: 119%;
+    }
+
+    /*IQAC*/
+
+    .iqac {
+        width: 175%;
+        margin-left: 2%;
+        text-align: left;
+    }
+
+    .iqac h1 {
+        font-size: 3rem;
+        text-align: center;
+        margin-bottom: 3%;
+    }
+
+    .iqac p {
+        font-size: 1.6rem;
+    }
+
+    .iqac_head,
+    .iqac_committee {
+        width: 180%;
+    }
+
+    .iqac img {
+        width: 20%;
+    }
+
+    /*mvl*/
+
+    .mvl {
+        width: 170%;
+    }
+
+    .mvl h1 {
+        font-size: 2.5rem;
+    }
+
+    .mvl_icon img {
+        width: 23%;
+    }
+
+    .mvl h2 {
+        font-size: 2.3rem;
+    }
+
+    .mvl p {
+        font-size: 1.8rem;
+        line-height: 2;
+    }
+
+    .mvl .vision {
+        font-size: 2rem;
+    }
+
+    /*notice board*/
+
+    .notice_board {
+        width: 180%;
+    }
+
+    .th_notice,
+    .td_notice {
+        font-size: 1.5rem;
+    }
+
+    /*Office*/
+
+    .princoff {
+        width: 170%;
+        margin-left: 0%;
+    }
+
+    .princoff h2 {
+        font-size: 2rem;
+    }
+
+    .princoff .table-head,
+    .princoff .table-row {
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    /*pmsg*/
+
+    .pmsg {
+        width: 160%;
+    }
+
+    .pmsg_container {
+        display: grid;
+        grid-template-columns: 40% 70%;
+    }
+
+    .pmsg_right h4 {
+        font-size: 2.2rem;
+    }
+
+    .pmsg_right p {
+        font-size: 1.3rem;
+    }
+
+    /*========================== DEPARTMENT ========================*/
+
+    .profile_container {
+        width: 170%;
+        align-items: center;
+    }
+
+    .profile_right h2 {
+        font-size: 2.3rem;
+        margin-bottom: 3%;
+        margin-top: 2%;
+    }
+
+    .profile_right p {
+        font-size: 1.5rem;
+    }
+
+    .pro_card_right {
+        width: 60%;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .profile {
+        width: 170%;
+    }
+
+    .card {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .card img {
+        width: 38%;
+    }
+
+    .card h4 {
+        font-size: 1.6rem;
+        margin-top: 2%;
+    }
+
+    .card p {
+        font-size: 1.3rem;
+        margin-top: 2%;
+    }
+
+    .Vacant {
+        text-align: center;
+        justify-content: center;
+    }
+
+
+    /*======================== FACILITIES ================================*/
+
+    .facs {
+        width: 180%;
+    }
+
+    .facs_container {
+        display: grid;
+        grid-template-columns: 25% 75%;
+    }
+
+    .fac img {
+        width: 60%;
+    }
+
+    .fac p {
+        font-size: 1.2rem;
+    }
+
+
+    /*================================= ADMISSION ============================*/
+
+    .headbox {
+        width: 180%;
+    }
+
+    .admission {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .admission_left {
+        width: 180%;
+        border-right: none;
+    }
+
+    .admission_right {
+        width: 180%;
+    }
+
+    .admission_button {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .admission_link_buttoms {
+        padding: 25px;
+        font-size: 1.5rem;
+    }
+
+    .down_notice {
+        width: 54%;
+    }
+
+    .admission1 {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 2rem;
+        width: 185%;
+    }
+
+    .subjects p {
+        font-size: 1.26rem;
+        margin-top: 2%;
+    }
+
+    .subjects .subject {
+        margin-top: 8%;
+        width: 50%;
+        margin-right: 10%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
